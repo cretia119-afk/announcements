@@ -1,5 +1,85 @@
 [
   {
+    "id": "kpea_1937",
+    "source": "KPEA",
+    "org": "경기연구원",
+    "title": "경기도공공투자관리센터 민간투자사업 전문가 신....",
+    "field": "토목, 건축, 도시·교통, 철도, 소방·안전",
+    "period": "2026/07/14 ~ 2026/07/31",
+    "status": "모집중",
+    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1937"
+  },
+  {
+    "id": "kpea_1936",
+    "source": "KPEA",
+    "org": "부산도시공사",
+    "title": "부산도시공사 제12기 기술자문위원회 위원 공....",
+    "field": "토목분야, 건축분야, 기계, 전기, 통신, 조경 등",
+    "period": "2026/07/13 ~ 2026/07/24",
+    "status": "모집중",
+    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1936"
+  },
+  {
+    "id": "kpea_1935",
+    "source": "KPEA",
+    "org": "광명시",
+    "title": "광명시 건축위원회 위원 공개 모집",
+    "field": "건축계획, 건축구조, 건축시공, 건축설비, 토질및기초, 소방, 교통, 건설안전",
+    "period": "2026/07/14 ~ 2026/07/28",
+    "status": "모집중",
+    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1935"
+  },
+  {
+    "id": "kpea_1934",
+    "source": "KPEA",
+    "org": "인천광역시 제물포구",
+    "title": "인천광역시 제물포구 건축위원회 위원 공개 모집",
+    "field": "건축계획, 건축구조, 건축시공, 건축설비, 토질및기초, 토목구조, 토목시공, 도시계획, 조경, 소방, 교통",
+    "period": "2026/07/10 ~ 2026/07/15",
+    "status": "모집중",
+    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1934"
+  },
+  {
+    "id": "ekacem_496",
+    "source": "EKACEM",
+    "org": "한국건설기술인협회",
+    "title": "건설교통신기술협회, 제10기 기술심의위원 모집 안내",
+    "field": "",
+    "period": "2026-08-14",
+    "status": "게시중",
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=496&ilist_page=1&slist_searchitem="
+  },
+  {
+    "id": "hibrain_3589655",
+    "source": "HiBrain",
+    "org": "",
+    "title": "부산도시공사 기술자문위원회 위원 모집",
+    "field": "",
+    "period": "26.07.06 ~ 26.07.24",
+    "status": "모집중",
+    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3589655?pagekey=3589655&keyword=%EA%B8%B0%EC%88%A0%EC%9E%90%EB%AC%B8&listType=ING&pagesize=10&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=1"
+  },
+  {
+    "id": "hibrain_3590086",
+    "source": "HiBrain",
+    "org": "",
+    "title": "남부지방산림청 초고속 무선 남부지방산림청통신망 구축 용역 제안서 평가위원 모집",
+    "field": "",
+    "period": "26.07.14 ~ 26.07.21",
+    "status": "모집중",
+    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590086?pagekey=3590086&keyword=%ED%8F%89%EA%B0%80%EC%9C%84%EC%9B%90&listType=ING&pagesize=10&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=1"
+  },
+  {
+    "id": "hibrain_3589985",
+    "source": "HiBrain",
+    "org": "",
+    "title": "목포시 전기버스 충전시설 설치 및 운영 사업자 선정 제안서 평가위원 모집",
+    "field": "",
+    "period": "26.07.13 ~ 26.07.20",
+    "status": "모집중",
+    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3589985?pagekey=3589985&keyword=%ED%8F%89%EA%B0%80%EC%9C%84%EC%9B%90&listType=ING&pagesize=10&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=1"
+  },
+  {
     "id": "naver_28789",
     "source": "네이버카페(제야의고수)",
     "org": "",
