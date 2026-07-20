@@ -1,25 +1,5 @@
 [
   {
-    "id": "kpea_1940",
-    "source": "KPEA",
-    "org": "경기도",
-    "title": "제11기 경기도 공동주택 품질점검단 위원 모집",
-    "field": "시공, 품질, 건설안전, 구조, 토목, 조경, 전기, 통신, 기계, 소방, 교통",
-    "period": "2026/07/15 ~ 2026/07/27",
-    "status": "모집중",
-    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1940"
-  },
-  {
-    "id": "kpea_1937",
-    "source": "KPEA",
-    "org": "경기연구원",
-    "title": "경기도공공투자관리센터 민간투자사업 전문가 신....",
-    "field": "토목, 건축, 도시·교통, 철도, 소방·안전",
-    "period": "2026/07/14 ~ 2026/07/31",
-    "status": "모집중",
-    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1937"
-  },
-  {
     "id": "kpea_1936",
     "source": "KPEA",
     "org": "부산도시공사",
@@ -28,16 +8,6 @@
     "period": "2026/07/13 ~ 2026/07/24",
     "status": "모집중",
     "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1936"
-  },
-  {
-    "id": "kpea_1935",
-    "source": "KPEA",
-    "org": "광명시",
-    "title": "광명시 건축위원회 위원 공개 모집",
-    "field": "건축계획, 건축구조, 건축시공, 건축설비, 토질및기초, 소방, 교통, 건설안전",
-    "period": "2026/07/14 ~ 2026/07/28",
-    "status": "모집중",
-    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1935"
   },
   {
     "id": "ekacem_496",
@@ -50,16 +20,6 @@
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=496&ilist_page=1&slist_searchitem="
   },
   {
-    "id": "hibrain_3589655",
-    "source": "HiBrain",
-    "org": "",
-    "title": "부산도시공사 기술자문위원회 위원 모집",
-    "field": "",
-    "period": "26.07.06 ~ 26.07.24",
-    "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3589655?pagekey=3589655&keyword=%EA%B8%B0%EC%88%A0%EC%9E%90%EB%AC%B8&listType=ING&pagesize=10&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=1"
-  },
-  {
     "id": "hibrain_3590086",
     "source": "HiBrain",
     "org": "",
@@ -67,6 +27,16 @@
     "field": "",
     "period": "26.07.14~내일마감",
     "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590086?pagekey=3590086&keyword=%ED%8F%89%EA%B0%80%EC%9C%84%EC%9B%90&listType=ING&pagesize=10&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=1"
+    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590086?pagekey=3590086&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=2"
+  },
+  {
+    "id": "hibrain_3589655",
+    "source": "HiBrain",
+    "org": "",
+    "title": "부산도시공사 기술자문위원회 위원 모집",
+    "field": "",
+    "period": "26.07.06 ~ 26.07.24",
+    "status": "모집중",
+    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3589655?pagekey=3589655&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=3"
   }
 ]
