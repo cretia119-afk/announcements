@@ -1,15 +1,5 @@
 [
   {
-    "id": "kpea_1936",
-    "source": "KPEA",
-    "org": "부산도시공사",
-    "title": "부산도시공사 제12기 기술자문위원회 위원 공....",
-    "field": "토목분야, 건축분야, 기계, 전기, 통신, 조경 등",
-    "period": "2026/07/13 ~ 2026/07/24",
-    "status": "모집중",
-    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1936"
-  },
-  {
     "id": "ekacem_496",
     "source": "EKACEM",
     "org": "한국건설기술인협회",
@@ -18,45 +8,5 @@
     "period": "2026-08-14",
     "status": "게시중",
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=496&ilist_page=1&slist_searchitem="
-  },
-  {
-    "id": "hibrain_3590904",
-    "source": "HiBrain",
-    "org": "",
-    "title": "대구광역시 건설기술심의위원회 위원 모집",
-    "field": "",
-    "period": "26.07.20 ~ 26.08.03",
-    "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590904?pagekey=3590904&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=1"
-  },
-  {
-    "id": "hibrain_3590215",
-    "source": "HiBrain",
-    "org": "",
-    "title": "한국환경공단 환경시설 민자사업 심의위원회 후보자 모집",
-    "field": "",
-    "period": "26.07.14 ~ 26.07.27",
-    "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590215?pagekey=3590215&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=2"
-  },
-  {
-    "id": "hibrain_3590086",
-    "source": "HiBrain",
-    "org": "",
-    "title": "남부지방산림청 초고속 무선 남부지방산림청통신망 구축 용역 제안서 평가위원 모집",
-    "field": "",
-    "period": "26.07.14~내일마감",
-    "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590086?pagekey=3590086&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=2"
-  },
-  {
-    "id": "hibrain_3589655",
-    "source": "HiBrain",
-    "org": "",
-    "title": "부산도시공사 기술자문위원회 위원 모집",
-    "field": "",
-    "period": "26.07.06 ~ 26.07.24",
-    "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3589655?pagekey=3589655&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=3"
   }
 ]
