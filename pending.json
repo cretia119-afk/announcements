@@ -10,6 +10,16 @@
     "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1936"
   },
   {
+    "id": "hibrain_3589655",
+    "source": "HiBrain",
+    "org": "",
+    "title": "부산도시공사 기술자문위원회 위원 모집",
+    "field": "",
+    "period": "26.07.06~오늘마감",
+    "status": "모집중",
+    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3589655?pagekey=3589655&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=3"
+  },
+  {
     "id": "kpea_1940",
     "source": "KPEA",
     "org": "경기도",
@@ -30,14 +40,24 @@
     "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590215?pagekey=3590215&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=3"
   },
   {
-    "id": "naver_28966",
+    "id": "naver_28977",
     "source": "네이버카페(제야의고수)",
     "org": "",
-    "title": "[제주] [토목(시공,구조)/전기/안전] 동문로(탐라문화광장 일원) 도로 열선 설치 사업 외 2개 사업자동제설장치(도로열선) 신기술·특허공법 선정",
+    "title": "[전남] [IT·ICT·SW/시스템설계/정보·통신] ﻿목포시 강소형 스마트시티 조성사업 스마트 수거존 소프트웨어 개발 용역",
     "field": "",
-    "period": "2026-07-30",
+    "period": "2026-07-27",
     "status": "게시중",
-    "url": "https://cafe.naver.com/jeyagosu/28966"
+    "url": "https://cafe.naver.com/jeyagosu/28977"
+  },
+  {
+    "id": "kpea_1948",
+    "source": "KPEA",
+    "org": "중소벤처기업부",
+    "title": "중소기업 기술분쟁조정·중재위원회 위원 후보자....",
+    "field": "기계, 전기, 전자, 정보통신, 화학, 에너지, 환경",
+    "period": "2026/07/23 ~ 2026/07/28",
+    "status": "모집중",
+    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1948"
   },
   {
     "id": "hibrain_3590904",
@@ -47,7 +67,17 @@
     "field": "",
     "period": "26.07.20 ~ 26.08.03",
     "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590904?pagekey=3590904&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=1"
+    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3590904?pagekey=3590904&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=2"
+  },
+  {
+    "id": "kpea_1951",
+    "source": "KPEA",
+    "org": "의정부시",
+    "title": "의정부시 기술자문위원회 토질및기초분야 위원 ....",
+    "field": "토질및기초",
+    "period": "2026/07/24 ~ 2026/08/04",
+    "status": "모집중",
+    "url": "https://www.kpea.or.kr/kpea/recom/RecomRead.do?recomId=1951"
   },
   {
     "id": "ekacem_496",
@@ -58,15 +88,5 @@
     "period": "2026-08-14",
     "status": "게시중",
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=496&ilist_page=1&slist_searchitem="
-  },
-  {
-    "id": "hibrain_3589655",
-    "source": "HiBrain",
-    "org": "",
-    "title": "부산도시공사 기술자문위원회 위원 모집",
-    "field": "",
-    "period": "26.07.06~내일마감",
-    "status": "모집중",
-    "url": "https://www.hibrain.net/research/researches/34/recruitments/425/categories/MJR/categories/ALL/recruits/3589655?pagekey=3589655&listType=ING&pagesize=25&sortType=AD&cntType=MJR&limit=25&displayType=TIT&siteid=1&page=3"
   }
 ]
