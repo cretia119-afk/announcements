@@ -10,6 +10,16 @@
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=502&ilist_page=1&slist_searchitem="
   },
   {
+    "id": "naver_29302",
+    "source": "네이버카페(제야의고수)",
+    "org": "",
+    "title": "[상주] [정보통신/사회복지] 존심애물(存心愛物) 스마트 경로당 확대구축사업",
+    "field": "",
+    "period": "2026-08-11",
+    "status": "게시중",
+    "url": "https://cafe.naver.com/jeyagosu/29302"
+  },
+  {
     "id": "ekacem_496",
     "source": "EKACEM",
     "org": "한국건설기술인협회",
@@ -18,5 +28,15 @@
     "period": "2026-08-14",
     "status": "게시중",
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=496&ilist_page=2&slist_searchitem="
+  },
+  {
+    "id": "naver_29310",
+    "source": "네이버카페(제야의고수)",
+    "org": "",
+    "title": "[제주] [교통/정보통신기기/정보기술개발] ON나라페이 플랫폼 고도화 사업",
+    "field": "",
+    "period": "2026-08-17",
+    "status": "게시중",
+    "url": "https://cafe.naver.com/jeyagosu/29310"
   }
 ]
