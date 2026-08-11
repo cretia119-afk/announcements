@@ -1,15 +1,5 @@
 [
   {
-    "id": "naver_29439",
-    "source": "네이버카페(제야의고수)",
-    "org": "",
-    "title": "[부산] [정보통신/소프트웨어/정보시스템/기타사업지원서비스] 급경사지·산사태 안전산업 기업지원시스템 구축 용역",
-    "field": "",
-    "period": "2026-08-13",
-    "status": "게시중",
-    "url": "https://cafe.naver.com/jeyagosu/29439"
-  },
-  {
     "id": "ekacem_496",
     "source": "EKACEM",
     "org": "한국건설기술인협회",
@@ -20,13 +10,23 @@
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=496&ilist_page=2&slist_searchitem="
   },
   {
-    "id": "naver_29432",
+    "id": "naver_29454",
     "source": "네이버카페(제야의고수)",
     "org": "",
-    "title": "[포항] [재생에너지·풍력/건축(금속구조물)·엔지니어링(구조)/GWO인증] ﻿풍력 현장기술인력양성 플랫폼 구축 지원사업 고소작업 훈련용 모의시스템 구매 설치﻿(재공고)",
+    "title": "[구미] [기계공학/기계가공/사출성형/정밀측정·계측/표면·형상분석/뿌리산업] 조달 구축장비(복합형 터닝센터 등 5종)",
     "field": "",
     "period": "2026-08-18",
     "status": "게시중",
-    "url": "https://cafe.naver.com/jeyagosu/29432"
+    "url": "https://cafe.naver.com/jeyagosu/29454"
+  },
+  {
+    "id": "ekacem_509",
+    "source": "EKACEM",
+    "org": "한국건설기술인협회",
+    "title": "국토안전관리원, 우수건설기술인 선정 평가위원단 인력풀 공개모집 연장 안내",
+    "field": "",
+    "period": "2026-08-21",
+    "status": "게시중",
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=509&ilist_page=1&slist_searchitem="
   }
 ]
