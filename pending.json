@@ -1,15 +1,5 @@
 [
   {
-    "id": "naver_30593",
-    "source": "네이버카페(제야의고수)",
-    "org": "",
-    "title": "[인천] [전광판/유사사업(전기·전자·통신)] 아트센터인천 이벤트홀 미디어스크린 구축 사업 특정제품 선정",
-    "field": "",
-    "period": "2026-10-14",
-    "status": "게시중",
-    "url": "https://cafe.naver.com/jeyagosu/30593"
-  },
-  {
     "id": "ekacem_521",
     "source": "EKACEM",
     "org": "한국건설기술인협회",
@@ -20,6 +10,16 @@
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=521&ilist_page=1&slist_searchitem="
   },
   {
+    "id": "naver_30621",
+    "source": "네이버카페(제야의고수)",
+    "org": "",
+    "title": "[부산] [정보통신(정보기술관리,데이터구축,정보보호)] 2027년 부산학교지원서비스(BSSS) 통합 유지관리",
+    "field": "",
+    "period": "2026-10-20",
+    "status": "게시중",
+    "url": "https://cafe.naver.com/jeyagosu/30621"
+  },
+  {
     "id": "ekacem_522",
     "source": "EKACEM",
     "org": "한국건설기술인협회",
@@ -28,6 +28,16 @@
     "period": "2026-10-27",
     "status": "게시중",
     "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=522&ilist_page=1&slist_searchitem="
+  },
+  {
+    "id": "ekacem_502",
+    "source": "EKACEM",
+    "org": "한국건설기술인협회",
+    "title": "국토안전관리원, 우수건설기술인 선정 평가위원단 인력풀 공개모집 안내",
+    "field": "",
+    "period": "",
+    "status": "게시중",
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=502&ilist_page=3&slist_searchitem="
   },
   {
     "id": "ekacem_496",
