@@ -1,12 +1,32 @@
 [
   {
-    "id": "naver_30833",
+    "id": "ekacem_522",
+    "source": "EKACEM",
+    "org": "한국건설기술인협회",
+    "title": "행복중심복합도시건설청 제11기 기술자문위원 모집 안내",
+    "field": "",
+    "period": "2026-10-27",
+    "status": "게시중",
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=522&ilist_page=1&slist_searchitem="
+  },
+  {
+    "id": "naver_30862",
     "source": "네이버카페(제야의고수)",
     "org": "",
-    "title": "[장수] [상·하수도/정보통신,전기,기계] 장수군 하수도 시스템 유지관리용역",
+    "title": "[원주] [정보화(정보통신,소프트웨어)] 2027년 원주형 아이키움 원스톱 통합 플랫폼 유지관리 용역",
     "field": "",
-    "period": "2026-10-28",
+    "period": "2026-10-27",
     "status": "게시중",
-    "url": "https://cafe.naver.com/jeyagosu/30833"
+    "url": "https://cafe.naver.com/jeyagosu/30862"
+  },
+  {
+    "id": "ekacem_496",
+    "source": "EKACEM",
+    "org": "한국건설기술인협회",
+    "title": "건설교통신기술협회, 제10기 기술심의위원 모집 안내",
+    "field": "",
+    "period": "",
+    "status": "게시중",
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=496&ilist_page=3&slist_searchitem="
   }
 ]
