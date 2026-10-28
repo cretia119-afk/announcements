@@ -1,32 +1,62 @@
 [
   {
-    "id": "ekacem_522",
+    "id": "naver_31009",
+    "source": "네이버카페(제야의고수)",
+    "org": "",
+    "title": "[울산] [수질환경/공업(기계·전기·화공)/상하수도] 2027년 수질 TMS 측정기기 유지보수 위탁관리 용역",
+    "field": "",
+    "period": "2026-11-02",
+    "status": "게시중",
+    "url": "https://cafe.naver.com/jeyagosu/31009"
+  },
+  {
+    "id": "naver_31005",
+    "source": "네이버카페(제야의고수)",
+    "org": "",
+    "title": "[거창] [식품가공/절임식품제조공정/염수재활용·수처리/식품기계·자동화설비/배관·유체이송설비/전기·제어/HACCP·식품위생/산업안전] 덕유농산영농조합법인 절임염수 재활용설비 제작 및 설치",
+    "field": "",
+    "period": "2026-11-02",
+    "status": "게시중",
+    "url": "https://cafe.naver.com/jeyagosu/31005"
+  },
+  {
+    "id": "naver_31008",
+    "source": "네이버카페(제야의고수)",
+    "org": "",
+    "title": "[합천] [정보통신(ICT)/조직배양/스마트팜시스템] 식물생장조절실 제작 및 설치",
+    "field": "",
+    "period": "2026-11-05",
+    "status": "게시중",
+    "url": "https://cafe.naver.com/jeyagosu/31008"
+  },
+  {
+    "id": "ekacem_526",
     "source": "EKACEM",
     "org": "한국건설기술인협회",
-    "title": "행복중심복합도시건설청 제11기 기술자문위원 모집 안내",
-    "field": "",
-    "period": "2026-10-27",
-    "status": "게시중",
-    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=522&ilist_page=1&slist_searchitem="
-  },
-  {
-    "id": "naver_30964",
-    "source": "네이버카페(제야의고수)",
-    "org": "",
-    "title": "[거창] [산업용로봇/자동화설비/이송시스템/기계설비/전기·제어/식품가공/농산물전처리] 덕유농산영농조합법인 배추 바구니 로봇 자동 이재 및 반전 배출 설비 제작 및 설치",
-    "field": "",
-    "period": "2026-10-30",
-    "status": "게시중",
-    "url": "https://cafe.naver.com/jeyagosu/30964"
-  },
-  {
-    "id": "naver_30967",
-    "source": "네이버카페(제야의고수)",
-    "org": "",
-    "title": "[창원] [정보통신/네트워크/정보보안] 차세대 통합 전사적 자원 관리 시스템 구축",
+    "title": "양구군 기술자문위원회 위촉직 위원 공개모집 안내",
     "field": "",
     "period": "2026-11-06",
     "status": "게시중",
-    "url": "https://cafe.naver.com/jeyagosu/30967"
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=526&ilist_page=1&slist_searchitem="
+  },
+  {
+    "id": "ekacem_509",
+    "source": "EKACEM",
+    "org": "한국건설기술인협회",
+    "title": "국토안전관리원, 우수건설기술인 선정 평가위원단 인력풀 공개모집 연장 안내",
+    "field": "",
+    "period": "",
+    "status": "게시중",
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=509&ilist_page=2&slist_searchitem="
+  },
+  {
+    "id": "ekacem_502",
+    "source": "EKACEM",
+    "org": "한국건설기술인협회",
+    "title": "국토안전관리원, 우수건설기술인 선정 평가위원단 인력풀 공개모집 안내",
+    "field": "",
+    "period": "",
+    "status": "게시중",
+    "url": "https://www.ekacem.or.kr:446/news/ia_su_recruit_vi.asp?num=502&ilist_page=3&slist_searchitem="
   }
 ]
